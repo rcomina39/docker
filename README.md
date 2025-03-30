@@ -2,7 +2,7 @@
 Instalación de docker Ubuntu/Windows 
 Para instalar Docker en Ubuntu 24.04.2, puedes seguir los siguientes pasos. Este proceso utiliza el repositorio oficial de Docker para garantizar que obtienes la versión más reciente y estable.
 
-# Pasos para instalar Docker en Ubuntu 24.04.2:
+## Pasos para instalar Docker en Ubuntu 24.04.2:
 1. Actualiza los paquetes de tu sistema:
 Abre una terminal y ejecuta el siguiente comando para asegurarte de que tu sistema esté actualizado:
 
@@ -70,7 +70,7 @@ Abre una terminal y ejecuta el siguiente comando para asegurarte de que tu siste
 		
 	Si todo está bien, deberías ver un mensaje diciendo que Docker está instalado correctamente.
 
-## ¡Listo! Docker debería estar instalado y funcionando en tu Ubuntu 24.04.2.
+### ¡Listo! Docker debería estar instalado y funcionando en tu Ubuntu 24.04.2.
 
 
 
